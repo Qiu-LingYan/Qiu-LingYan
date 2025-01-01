@@ -12,4 +12,3 @@ hello！我是**QiuLingYan**，坐标中国南方某城市。平日里大家习�
 
 （初三的压力不用说都知道吧 其实初二暑假，两家重点高中有一次预招生 可惜我没考上）
 
-自己也有了一个小团队，[Coldwind-Studio](https://coldwind.link/)，也还算可以。
