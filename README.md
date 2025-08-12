@@ -8,7 +8,7 @@ hello！我是**QiuLingYan**，坐标中国南方某城市。平日里大家习�
 
 来到Github，还是在2021年的四月。那时也是我对程序员最感兴趣的时候。然后发现Github还有好多~~国内禁止~~的东西，然后就。。。懂得都懂awa
 
-现在嘛，初三了，梦想就是当程序员（其实网安也很不错）。钱一般都只花在服务器上（为事业花钱）。
+现在嘛，高一了，梦想就是当程序员（其实网安也很不错）。钱一般都只花在服务器上（为事业花钱）。
 
-（初三的压力不用说都知道吧 其实初二暑假，两家重点高中有一次预招生 可惜我没考上）
+![https://i.postimg.cc/R0Rb7Lgv/cgi-bin-mmwebwx-bin-webwxgetmsgimg-Msg-ID-7182137176871366394-skey-crypt-e10aef0c-d761f5527e6b8c6.jpg][https://i.postimg.cc/R0Rb7Lgv/cgi-bin-mmwebwx-bin-webwxgetmsgimg-Msg-ID-7182137176871366394-skey-crypt-e10aef0c-d761f5527e6b8c6.jpg]
 
