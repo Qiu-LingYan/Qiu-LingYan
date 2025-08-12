@@ -10,5 +10,5 @@ hello！我是**QiuLingYan**，坐标中国南方某城市。平日里大家习�
 
 现在嘛，高一了，梦想就是当程序员（其实网安也很不错）。钱一般都只花在服务器上（为事业花钱）。
 
-![https://i.postimg.cc/R0Rb7Lgv/cgi-bin-mmwebwx-bin-webwxgetmsgimg-Msg-ID-7182137176871366394-skey-crypt-e10aef0c-d761f5527e6b8c6.jpg][https://i.postimg.cc/R0Rb7Lgv/cgi-bin-mmwebwx-bin-webwxgetmsgimg-Msg-ID-7182137176871366394-skey-crypt-e10aef0c-d761f5527e6b8c6.jpg]
+![https://i.postimg.cc/R0Rb7Lgv/cgi-bin-mmwebwx-bin-webwxgetmsgimg-Msg-ID-7182137176871366394-skey-crypt-e10aef0c-d761f5527e6b8c6.jpg]
 
