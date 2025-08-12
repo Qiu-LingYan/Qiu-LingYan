@@ -1,6 +1,6 @@
 # 秋凌烟｜QiuLingYan
 
-![head][https://i.postimg.cc/R0Rb7Lgv/cgi-bin-mmwebwx-bin-webwxgetmsgimg-Msg-ID-7182137176871366394-skey-crypt-e10aef0c-d761f5527e6b8c6.jpg "Head"]
+![图片替代文本](https://i.postimg.cc/R0Rb7Lgv/cgi-bin-mmwebwx-bin-webwxgetmsgimg-Msg-ID-7182137176871366394-skey-crypt-e10aef0c-d761f5527e6b8c6.jpg)
 
 ![Stars](http://img.shields.io/github/stars/Qiu-LingYan.svg)
 
