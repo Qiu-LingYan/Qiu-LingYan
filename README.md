@@ -1,7 +1,5 @@
 # 秋凌烟｜QiuLingYan
 
-![图片](https://i.postimg.cc/R0Rb7Lgv/cgi-bin-mmwebwx-bin-webwxgetmsgimg-Msg-ID-7182137176871366394-skey-crypt-e10aef0c-d761f5527e6b8c6.jpg)
-
 ## 自我介绍
 Hello!我是**QiuLingYan**。
 
