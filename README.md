@@ -1,7 +1,7 @@
 # Qiu-LingYan ✨👋
 
 [![Email](https://img.shields.io/badge/Email-hiyo--qly%40foxmail.com-blue?style=flat-square&logo=mail.ru)](mailto:hiyo-qly@foxmail.com)  
-> 你好！我是 Qiu-LingYan — 一个热爱学习、热衷分享与实践的个人开发者 & 学习者。欢迎随时联系与交流！AWA🌱💡
+> QiuLingYan | 15yo | student
 
 🔖 关于我
 
