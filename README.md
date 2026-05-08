@@ -1,7 +1,8 @@
 # Qiu-LingYan ✨👋
 
 [![Email](https://img.shields.io/badge/Email-hiyo--qly%40foxmail.com-blue?style=flat-square&logo=mail.ru)](mailto:hiyo-qly@foxmail.com)  
-> QiuLingYan | 15yo | student
+
+> QiuLingYan | 16yo | student
 
 🔖 关于我
 
@@ -21,7 +22,6 @@ More...
 
 但，转变的时刻已然到来，在社会的浪潮中，去抓住属于自己的机遇。
 
-这一杯，敬自己，也敬这迅猛发展的社会。
 </details>
 
 ⚡ 个人定位
