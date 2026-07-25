@@ -4,7 +4,8 @@
 
 > QiuLingYan | 16yo | student
 
-![Quote](https://quotes-github-readme.vercel.app/api?quote=Goodbye,%20or%20see%20you%20never.&author=QiuLingYan&type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?quote=Goodbye,%20or%20see%20you%20never.&author=QiuLingYan&type=horizontal&theme=tokyonight" style="max-width: 100%; height: auto;" alt="Quote" />
+
 
 
 
