@@ -16,6 +16,10 @@
   <code>QiuLingYan</code> • <code>16yo</code> • <code>Student</code>
 </p>
 
+## About Me
+
+To be continued…
+
 ## Research Interests
 
 <p align="center">
@@ -65,4 +69,8 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qiu-LingYan&theme=tokyonight" alt="Qiu-LingYan's github streak" />
+</p>
+
+<p align="center">
+  <i>Goodbye, or see you never.</i>
 </p>
