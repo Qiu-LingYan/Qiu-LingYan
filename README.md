@@ -12,4 +12,8 @@
 > "When the light dyed the leaves golden, a kind of almost painful joy suddenly welled up, as if that light were not merely shining upon the leaves, but penetrating from the deep recesses of time."  
 > — Marcel Proust
 
-> QiuLingYan | 16yo | student
+<p align="center">
+  <code>QiuLingYan</code> • <code>16yo</code> • <code>Student</code>
+</p>
+
+> **Research Interests:** > Deep Learning | Quantitative Finance | Discretionary Trading | LLM Agent
