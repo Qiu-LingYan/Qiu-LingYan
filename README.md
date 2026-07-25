@@ -31,13 +31,14 @@
 <table>
   <tr>
     <td width="100%">
-      <h3 align="center">
-        <a href="https://github.com/Yunchu-Team/Yunchu-Shop"><b>Yunchu-Shop</b></a>
-      </h3>
+      <h3 align="center" style="border-bottom: none;">Yunchu-Shop</h3>
       <p align="center">
         An e-commerce platform built for seamless online shopping and store management.
       </p>
       <p align="center">
+        <a href="https://github.com/Yunchu-Team/Yunchu-Shop">
+          <img src="https://img.shields.io/badge/Repository-Yunchu--Shop-181717?style=flat-square&logo=github" alt="GitHub Repository" />
+        </a>
         <img src="https://img.shields.io/badge/Platform-E--commerce-blue?style=flat-square" alt="Platform" />
         <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status" />
       </p>
