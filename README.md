@@ -28,8 +28,22 @@
 
 ## Projects
 
-### [Yunchu-Shop](https://github.com/Yunchu-Team/Yunchu-Shop)
-An e-commerce platform built for seamless online shopping and store management.
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="center">
+        <a href="https://github.com/Yunchu-Team/Yunchu-Shop"><b>Yunchu-Shop</b></a>
+      </h3>
+      <p align="center">
+        An e-commerce platform built for seamless online shopping and store management.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Platform-E--commerce-blue?style=flat-square" alt="Platform" />
+        <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
