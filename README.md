@@ -25,3 +25,10 @@
 ### Discretionary Trading
 
 ### LLM Agent
+
+### Web Development
+
+## Projects
+
+### [Yunchu-Shop](https://github.com/Yunchu-Team/Yunchu-Shop)
+An e-commerce platform built for seamless online shopping and store management.
