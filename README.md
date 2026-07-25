@@ -30,7 +30,7 @@
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="50%" valign="top">
       <h3 align="center" style="border-bottom: none;">Yunchu-Shop</h3>
       <p align="center">
         An e-commerce platform built for seamless online shopping and store management.
@@ -40,6 +40,19 @@
           <img src="https://img.shields.io/badge/Repository-Yunchu--Shop-181717?style=flat-square&logo=github" alt="GitHub Repository" />
         </a>
         <img src="https://img.shields.io/badge/Platform-E--commerce-blue?style=flat-square" alt="Platform" />
+        <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center" style="border-bottom: none;">pystaticblog</h3>
+      <p align="center">
+        A Python-powered static blog generator designed for fast, clean, and lightweight publishing.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Qiu-LingYan/pystaticblog">
+          <img src="https://img.shields.io/badge/Repository-pystaticblog-181717?style=flat-square&logo=github" alt="GitHub Repository" />
+        </a>
+        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python" alt="Language" />
         <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status" />
       </p>
     </td>
