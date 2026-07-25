@@ -1,5 +1,17 @@
 <h1 align="center"><i>𝓠𝓲𝓾-𝓛𝓲𝓷𝓰𝓨𝓪𝓷</i></h1>
 
+---
+
+<p align="center">
+  <i>"One is bound to be consumed, ultimately, by this decaying politics or this pseudo-city."</i>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A855F7&center=true&vcenter=true&width=435&lines=Co-Founder+%40+Yunchu+Team" alt="Co-Founder @ Yunchu Team" />
+  </a>
+</p>
+
 <p align="center">
   <a href="mailto:hiyo-qly@foxmail.com">
     <img src="https://img.shields.io/badge/Email-hiyo--qly%40foxmail.com-blue?style=flat-square&logo=mail.ru" alt="Email" />
