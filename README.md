@@ -86,5 +86,5 @@ To be continued...
 ---
 
 <p align="center">
-  <i>Goodbye, or see you never.</i>
+  <i>Farewell.Forever.</i>
 </p>
