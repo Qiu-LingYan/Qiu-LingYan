@@ -1,4 +1,4 @@
-# Qiu-LingYan ✨👋
+<h1 align="center"><i>𝓠𝓲𝓾-𝓛𝓲𝓷𝓰𝓨𝓪𝓷</i></h1>
 
 <p align="center">
   <a href="mailto:hiyo-qly@foxmail.com">
