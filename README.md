@@ -1,7 +1,5 @@
 <h1 align="center"><i>𝓠𝓲𝓾-𝓛𝓲𝓷𝓰𝓨𝓪𝓷</i></h1>
 
----
-
 <p align="center">
   <i>"One is bound to be consumed, ultimately, by this decaying politics or this pseudo-city."</i>
 </p>
