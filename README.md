@@ -18,17 +18,26 @@
 
 ## Research Interests
 
-### Deep Learning
-
-### Quantitative Finance
-
-### Discretionary Trading
-
-### LLM Agent
-
-### Web Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge&logo=pytorch" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Quantitative_Finance-green?style=for-the-badge&logo=python" alt="Quantitative Finance" />
+  <img src="https://img.shields.io/badge/Discretionary_Trading-blue?style=for-the-badge&logo=investing" alt="Discretionary Trading" />
+  <img src="https://img.shields.io/badge/LLM_Agent-orange?style=for-the-badge&logo=openai" alt="LLM Agent" />
+  <img src="https://img.shields.io/badge/Web_Development-purple?style=for-the-badge&logo=pdm" alt="Web Development" />
+</p>
 
 ## Projects
 
 ### [Yunchu-Shop](https://github.com/Yunchu-Team/Yunchu-Shop)
 An e-commerce platform built for seamless online shopping and store management.
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Qiu-LingYan&show_icons=true&theme=tokyonight" alt="Qiu-LingYan's github stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qiu-LingYan&theme=tokyonight" alt="Qiu-LingYan's github streak" />
+</p>
