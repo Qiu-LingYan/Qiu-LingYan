@@ -18,7 +18,7 @@
 
 ## About Me
 
-To be continued…
+To be continued...
 
 ## Research Interests
 
@@ -70,6 +70,8 @@ To be continued…
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qiu-LingYan&theme=tokyonight" alt="Qiu-LingYan's github streak" />
 </p>
+
+---
 
 <p align="center">
   <i>Goodbye, or see you never.</i>
