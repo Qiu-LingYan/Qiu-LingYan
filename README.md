@@ -84,5 +84,9 @@ To be continued...
 ---
 
 <p align="center">
-  <i>Farewell.Forever.</i>
+  <i>Farewell. Forever.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Qiu-LingYan&label=Profile%20Views&color=7dcfff&style=flat-square" alt="Profile Views" />
 </p>
