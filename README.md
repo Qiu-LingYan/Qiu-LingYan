@@ -36,7 +36,7 @@ An e-commerce platform built for seamless online shopping and store management.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qiu-LingYan&show_icons=true&theme=tokyonight" alt="Qiu-LingYan's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Qiu-LingYan&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Qiu-LingYan's github stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qiu-LingYan&theme=tokyonight" alt="Qiu-LingYan's github streak" />
