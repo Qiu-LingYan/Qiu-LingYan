@@ -16,4 +16,12 @@
   <code>QiuLingYan</code> • <code>16yo</code> • <code>Student</code>
 </p>
 
-> **Research Interests:** > Deep Learning | Quantitative Finance | Discretionary Trading | LLM Agent
+## Research Interests
+
+### Deep Learning
+
+### Quantitative Finance
+
+### Discretionary Trading
+
+### LLM Agent
