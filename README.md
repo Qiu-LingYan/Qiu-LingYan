@@ -31,7 +31,7 @@
 
 <br>
 
-[To experience.md](./experience.md).
+To read my story, please see [experience.md](./experience.md).
 
 </details>
 
