@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="10142EFE-93C1-43AF-A50C-39C6956BE3F0.png" width="150" alt="QiuLingYan" />
+  <img src="10142EFE-93C1-43AF-A50C-39C6956BE3F0.png" width="150" style="border-radius: 50%; box-shadow: 0 4px 24px rgba(168, 85, 247, 0.35);" alt="QiuLingYan" />
 </p>
 
 <h1 align="center"><i>𝓠𝓲𝓾-𝓛𝓲𝓷𝓰𝓨𝓪𝓷</i></h1>
