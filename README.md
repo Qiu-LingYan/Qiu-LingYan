@@ -38,6 +38,16 @@ To read my story, please see [experience.md](./experience.md).
 
 </details>
 
+<p align="center">
+  <a href="https://github.com/Qiu-LingYan/CASE-20261027">
+    <img src="https://img.shields.io/badge/⚠_CASE--20261027-Documentation_of_the_October_27_Incident-critical?style=for-the-badge" alt="CASE-20261027" />
+  </a>
+</p>
+
+<p align="center">
+  <b><a href="https://github.com/Qiu-LingYan/CASE-20261027">CASE-20261027</a></b> — A public, permanent record of the October 27, 2026 incident in which my homeroom teacher publicly humiliated me in front of the whole class. The repository contains the full incident reports, timeline, and supporting evidence. Read it <a href="https://github.com/Qiu-LingYan/CASE-20261027">here</a>.
+</p>
+
 ## Research Interests
 
 <p align="center">
